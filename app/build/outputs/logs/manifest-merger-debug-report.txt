@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/4a3a5144a6a1480c0d8a549ffa960952/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/e78986c3cfc00f481716cb1ae8a48cc3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/6d8b826cc79b980bbe76017389e41962/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/8d3472538ae47b8fa0a323673a14de10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/59f960d9dfeaada442392673a362909a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/d67aa78311f3f291aff00ec90d5d3b5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/37108d95e9ad00fec53d22b0062e0725/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/9a014c868ba9f949c7f3eb12c2e15dbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/5686f6ede2c1857d2cb3f983f83c2f79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/189266c85c506319956144bf5f063be0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/3d1f34e4fb5cf4867df596e27eea7b0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/cf0c465d66354aa14ef6ada67a5af057/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/29fca802e1abade81669cfabdf3ea7db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/9cfb13786b3b83eaac516b71cd97d3b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/cf4f299d794b8c5936955d55baf71f87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/6e884124bd30fbfd5b4413cf5ef00f5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/5988a66d2ac8d77734ccbfd7ea62f243/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/1e10a258681fb0ef92de98fb2f2c3bbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/a085653108c21f0d496d36e51f490b15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/1c4d2c2bed3425c357738dd4994b90bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/520acedfc1b42d67784760f5b61f664f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/005c7786707645afb67aa8186344110f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/41a1ad76104671832a784d671de86cf1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/fb092fba7b78b5c8e0efef5f2b30436b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/fa9ab5887816f04300dad46ce2f4d368/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/d55937f2113af2b3c88ef0753cb4b096/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/d4805bbdf01e2b304ead0764486a802e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/ea68f1e1ec431196e7e92a7f93c5ac36/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/936358eb98c1468ed5ef758c9888146d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/c45679a517db2a8edd2bb51c937c3f15/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/fbcb176a70cbd25b4452c77974ebe519/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/8a31e69ffe2aad1d88a4ba11e841fc2a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/45be4f00b5f02c14cf229cc0d0f6e51f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:4:5-34
+		INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from [com.android.support:design:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/4a3a5144a6a1480c0d8a549ffa960952/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/4a3a5144a6a1480c0d8a549ffa960952/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/6d8b826cc79b980bbe76017389e41962/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/6d8b826cc79b980bbe76017389e41962/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/520acedfc1b42d67784760f5b61f664f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/520acedfc1b42d67784760f5b61f664f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/005c7786707645afb67aa8186344110f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/005c7786707645afb67aa8186344110f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/520acedfc1b42d67784760f5b61f664f/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:13:9-48
+	android:roundIcon
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.hangman.singleplayerActivity
+ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:14:9-16:61
+	android:screenOrientation
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:16:13-49
+	android:parentActivityName
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:15:13-55
+	android:name
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:14:19-55
+activity#com.example.hangman.multiplayerActivity
+ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:17:9-19:61
+	android:screenOrientation
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:19:13-49
+	android:parentActivityName
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:18:13-55
+	android:name
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:17:19-54
+activity#com.example.hangman.WordInputActivity
+ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:20:9-55
+	android:name
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:20:19-52
+activity#com.example.hangman.MainActivity
+ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/4a3a5144a6a1480c0d8a549ffa960952/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/4a3a5144a6a1480c0d8a549ffa960952/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/e78986c3cfc00f481716cb1ae8a48cc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/e78986c3cfc00f481716cb1ae8a48cc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/6d8b826cc79b980bbe76017389e41962/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/6d8b826cc79b980bbe76017389e41962/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/8d3472538ae47b8fa0a323673a14de10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/8d3472538ae47b8fa0a323673a14de10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/59f960d9dfeaada442392673a362909a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/59f960d9dfeaada442392673a362909a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/d67aa78311f3f291aff00ec90d5d3b5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/d67aa78311f3f291aff00ec90d5d3b5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/37108d95e9ad00fec53d22b0062e0725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/37108d95e9ad00fec53d22b0062e0725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/9a014c868ba9f949c7f3eb12c2e15dbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/9a014c868ba9f949c7f3eb12c2e15dbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/5686f6ede2c1857d2cb3f983f83c2f79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/5686f6ede2c1857d2cb3f983f83c2f79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/189266c85c506319956144bf5f063be0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/189266c85c506319956144bf5f063be0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/3d1f34e4fb5cf4867df596e27eea7b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/3d1f34e4fb5cf4867df596e27eea7b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/cf0c465d66354aa14ef6ada67a5af057/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/cf0c465d66354aa14ef6ada67a5af057/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/29fca802e1abade81669cfabdf3ea7db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/29fca802e1abade81669cfabdf3ea7db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/9cfb13786b3b83eaac516b71cd97d3b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/9cfb13786b3b83eaac516b71cd97d3b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/cf4f299d794b8c5936955d55baf71f87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/cf4f299d794b8c5936955d55baf71f87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/6e884124bd30fbfd5b4413cf5ef00f5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/6e884124bd30fbfd5b4413cf5ef00f5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/5988a66d2ac8d77734ccbfd7ea62f243/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/5988a66d2ac8d77734ccbfd7ea62f243/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/1e10a258681fb0ef92de98fb2f2c3bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/1e10a258681fb0ef92de98fb2f2c3bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/a085653108c21f0d496d36e51f490b15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/a085653108c21f0d496d36e51f490b15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/1c4d2c2bed3425c357738dd4994b90bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/1c4d2c2bed3425c357738dd4994b90bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/520acedfc1b42d67784760f5b61f664f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/520acedfc1b42d67784760f5b61f664f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/005c7786707645afb67aa8186344110f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/005c7786707645afb67aa8186344110f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/41a1ad76104671832a784d671de86cf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/41a1ad76104671832a784d671de86cf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/fb092fba7b78b5c8e0efef5f2b30436b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/fb092fba7b78b5c8e0efef5f2b30436b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/fa9ab5887816f04300dad46ce2f4d368/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/fa9ab5887816f04300dad46ce2f4d368/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/d55937f2113af2b3c88ef0753cb4b096/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/d55937f2113af2b3c88ef0753cb4b096/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/d4805bbdf01e2b304ead0764486a802e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/d4805bbdf01e2b304ead0764486a802e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/ea68f1e1ec431196e7e92a7f93c5ac36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/ea68f1e1ec431196e7e92a7f93c5ac36/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/936358eb98c1468ed5ef758c9888146d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/936358eb98c1468ed5ef758c9888146d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/c45679a517db2a8edd2bb51c937c3f15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/c45679a517db2a8edd2bb51c937c3f15/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/fbcb176a70cbd25b4452c77974ebe519/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/fbcb176a70cbd25b4452c77974ebe519/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/8a31e69ffe2aad1d88a4ba11e841fc2a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/8a31e69ffe2aad1d88a4ba11e841fc2a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/45be4f00b5f02c14cf229cc0d0f6e51f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/camilyo/.gradle/caches/transforms-2/files-2.1/45be4f00b5f02c14cf229cc0d0f6e51f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/camilyo/Desktop/hangman-matrix-app-master/app/src/main/AndroidManifest.xml
